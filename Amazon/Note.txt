@@ -1,0 +1,93 @@
+亚麻 面
+
+Number of Islands
+Number of Distinct Islands
+BQ:
+calculated risk, can't meet deadline
+
+
+Linkedlist vs Arraylist: 1.Access an element 2.Memory requirement 3. Cost of inserting an element (4 Easy of use)
+
+
+2.
+给一个平面 判断一个点在不在closed polygon里面 就dfs/bfs
+BQ:
+challenging project, can't meet deadline, 还有个啥忘了
+
+3.
+两道题都挺简单的，太简单忘记具体是什么
+BQ:
+learn new things
+
+472
+140 Hard
+
+实习 45min VO
+—————————————
+572. Subtree of Another Tree
+146. LRU Cache
+5.
+Set: no duplicates
+Difference between Hashset and truest: in sequence. Hashset (only elements are stored) makes it keys
+然后追问hash怎么实现，collision怎么解决，in java
+
+Transformation of a string character(Text) to a shorted fixed-len value that represents original string. Faster search
+Hashcode (int hash, key, value, next pointer)    put()    get()
+
+
+Exception handling in Java: try catch
+接着一些简单 的 面相对象问题： dynamic binding， overriding， overloading， polymorphism， thread 和 process区别， objec class 区别 等
+
+387. First Unique Character in a String
+56. Merge Intervals
+
+BQ问了两个，一个是take risk，一个是project out of responsibility
+第一题是 Lowest Common Ancestor of a Binary Search Tree
+第二题 是 Coin Change变种（box 和 nuggets），??follow up是把 combination 输出来。 
+第一题是 Binary Tree Zigzag Level Order Traversal
+第二题是 two sum closest to zero: 写一下吧！！！   Follow up 3sum and 4sum
+Coding:
+给一个数组和interval，输出新数组是这个数组的interval的sum的序列，例如：
+input: (int[] arr = {1, 5, 7, 8, 12}, int interval = 3)
+output: res = [13, 20, 27]
+暴力解法 O(mn)，稍微优化一下 O(n)
+
+270
+
+第一题是 check valid anagram
+第二题是 implement queue using stack
+
+171. Excel Sheet Column Number
+有点像270，
+今天刚面完，大部分问题都很常规，回馈地里：
+2.1 投 -> 2.8收到OA -> 2.10做完 -> 2.19联系约面试 -> 2.27 VO
+
+BQ:
+1. 时间有限的情况下，如何提出有效的解决方法
+2. Challenge Project
+3. 曾经犯过的错误
+Top/Least K frequent Word - Coding
+Other:
+问了基础数据结构，queue,stack, HashMap的实现, 红黑树的原理
+Tree traversal:
+
+一道3sum，最后4sum
+
+Next 手机图片：bq问了两道题。
+
+
+———————
+烙印， 要写Thank you letter吗？ 我觉得不用了吧
+—
+Introduce yourself. Why Amazon
+Coding: Design a structure for graph. State machines: created, DNF, started, failed, active, end
+[[]] Each list include the starter point and the point it can go to. Iteration of the list
+BQ:
+You help others: Senate Analysis: Pandas, Analysis-dictionaries instead
+You find out a problem and how you solve it and the result: Racial Health disparities: PCA doesn’t work.
+	Follow: What do you learn from the experience: Think myself make sure the new way works and discuss with teammate, and manager
+Ask him a question:
+I ask you’ve worked with Application team, cloud team and many teams, which experience if the best?
+He replies: Cloud
+
+

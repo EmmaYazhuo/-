@@ -1,0 +1,25 @@
+Build a flask app showing that getting geostream data
+
+
+Webpages include:
+    map showing traps
+    graph_trap showing graphs and plots
+    graph_climate_div： post or get data
+    base
+    about
+    /model_graph/<model_year>/<region>/<id>
+
+
+
+?mir
+
+
+Weihao 4:12 PM
+This is the West Nile virus (WNV) project.
+Honestly I don’t know much details about the exact models in this project. I know this model is for weather data. The current model Wayne and Mingyu has developed need some help incorporating weather data in addition to the socioeconomic data. It is great that you have some thoughts of improving it.
+I suggest you to discuss this first with Luda. She is not sure wether to put you on this project or the neurology project. This is our main project, but the other one involves more coding. You could talk to Dan to get some idea about the tasks in the neurology project.
+
+Yazhuo Zhang 4:18 PM
+Got it. Thanks!
+Weihao 4:19 PM
+Some bullet points in a email would be helpful. If there are figures, you could bring them to the meeting with Luda.
